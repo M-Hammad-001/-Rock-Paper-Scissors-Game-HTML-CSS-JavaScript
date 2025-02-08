@@ -1,0 +1,53 @@
+body
+{
+  background-color: black;
+  font-family: Arial;
+}
+
+.Title
+{
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+.result
+{
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+.moves
+{
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.Game-Stats
+{
+  color: white;
+}
+
+.symbols
+{
+  height: 50px;
+}
+
+.move-button
+{
+  background-color: transparent;
+  border: solid;
+  border-color: white;
+  border-radius: 60px;
+  height: 120px;
+  width:120px;
+  border-width: 3px;
+  margin-right: 10px;
+}
+.reset-button, .css-auto-play
+{
+  background-color: white;
+  font-size: 15px;
+  padding: 8px 15px;
+}
